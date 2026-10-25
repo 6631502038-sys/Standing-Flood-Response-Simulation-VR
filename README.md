@@ -16,3 +16,9 @@ Japanese Standard Framework: Structured according to Japan Meteorological Agency
 3-Stage Gameplay: Interactive tasks guiding players through Before, During, and After flood scenarios.
 
 VR Interaction: Immersive hand-tracking/controller interactions using Unity's XR Interaction Toolkit.
+
+Markdown
+## (Project Activities)
+
+![Photo Activity](images/activity1.jpg)
+*Atmosphere of our VR fieldwork, data collection, and user testing*
