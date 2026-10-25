@@ -20,5 +20,7 @@ VR Interaction: Immersive hand-tracking/controller interactions using Unity's XR
 Markdown
 ## (Project Activities)
 
-![Photo Activity](images/activity1.jpg)
+![Photo Activity](images/images/130590.jpg)
+![Photo Activity](images/images/130591.jpg)
+![Photo Activity](images/images/130592.jpg)
 *Atmosphere of our VR fieldwork, data collection, and user testing*
